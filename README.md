@@ -6,7 +6,7 @@ It demonstrates how to design and structure a small-scale game using **Object-Or
 ---
 
 ## 📌 Features  
-- Classic **3x3 Tic Tac Toe board**  
+- Classic **NxN Tic Tac Toe board**  
 - Player vs Player mode  
 - Separation of concerns through different classes (`Board`, `Player`, `Game`, etc.)  
 - Designed for clarity and extensibility (LLD learning focus)  
